@@ -1,0 +1,12 @@
+node_modules
+coverage
+
+#Intellij/WebStorm
+
+.idea/*.iml
+.idea/vcs.xml
+.idea/misc.xml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/typescript-compiler.xml
+.idea/dictionaries/*.xml
